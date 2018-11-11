@@ -1,6 +1,6 @@
 # Iterative Development
 
-1. watch <iframe width="560" height="315" src="https://www.youtube.com/embed/H0_yKBitO8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+1. watch [![YouTube](https://i.ytimg.com/vi/H0_yKBitO8M/default.jpg)](https://www.youtube.com/watch?v=H0_yKBitO8M)
 2. create your own 1 minute video 
 	1. share one thing you learned
 	1. share an example how you might use an iterative approach in your daily life
