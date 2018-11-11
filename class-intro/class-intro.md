@@ -1,3 +1,5 @@
+# Class Intro
+
 The Forge Academy is designed to guide students from no software development knowledge to working knowledge in the 
 fewest number of steps. 
 
