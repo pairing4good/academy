@@ -1,9 +1,9 @@
-# Intro to Scratch
+# Scratch Program
 
 
-1. watch [![YouTube](https://i.ytimg.com/vi/fm8r-32PLKE/default.jpg)](https://www.youtube.com/watch?v=fm8r-32PLKE)
-2. go to https://scratch.mit.edu/projects/editor/?tip_bar=getStarted
-3. complete the 'Getting Started with Scratch' tutorial
+1. watch [![YouTube](https://i.ytimg.com/vi/n8luDYy75o0/default.jpg)](https://www.youtube.com/watch?v=n8luDYy75o0)
+2. go to https://scratch.mit.edu/projects/editor/
+3. create a game 
 4. select 'File -> Download to your computer' from the menu
 5. attach your project '.sb2' file to this assignment
 6. demo
