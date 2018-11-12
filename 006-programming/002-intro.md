@@ -3,7 +3,7 @@
 ## Discover
 - watch attached videos
 	- [![YouTube](https://i.ytimg.com/vi/_UwMYxijvxE/default.jpg)](https://www.youtube.com/watch?v=_UwMYxijvxE)
-	- [![YouTube](https://www.youtube.com/watch?v=3aZorQ1U7vM)](https://www.youtube.com/watch?v=3aZorQ1U7vM)
+	- [![YouTube](https://i.ytimg.com/vi/3aZorQ1U7vM/default.jpg)](https://www.youtube.com/watch?v=3aZorQ1U7vM)
 
 ## Try
 - Site: SoloLearn.com
