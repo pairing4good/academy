@@ -1,0 +1,5 @@
+# Section Introduction
+
+For this section you will begin to learn JavaScript. Professor Malan regularly references a language called Python and a web framework called Flask. In this Academy we’ve chosen to not teach Python. There were two main reasons for this decision: speed and marketability. Learning yet another language would delay students from efficiently arriving at their own stage of working knowledge. Secondly, while Python is fun and easy to learn, the local job market is limited compared to Java or C#. For these reasons we’ve decided to skip Professor Malan’s section on Python and Flask.
+
+Similar to the previous learning progression for Java, this section will use Professor Malan's lectures with SoloLearn.com and Koans to learn the basics of JavaScript. Once these fundamental concepts are learned we will return to the PetClinic application to build real-world JavaScript front ends. Like with Java all assignments will test drive stories and demonstrate working software.
