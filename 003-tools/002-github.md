@@ -16,6 +16,6 @@
     3. Share their ideas with others
 1. GitHub uses repositories to organize directories and files.  
 1. GitHub provides public and private repositories.  
-1. The README.md file is used to describe your repository.  
-1. The .gitignore file is used to prevent Git from tracking temporary files and directories that don't need to be tracked. 
+1. The `README.md` file is used to describe your repository.  
+1. The `.gitignore` file is used to prevent Git from tracking temporary files and directories that don't need to be tracked. 
 1. GitHub repositories can be cloned to your desktop so that you can work on your files with the tools of your choice.  
