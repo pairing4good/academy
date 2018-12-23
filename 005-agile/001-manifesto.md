@@ -12,37 +12,3 @@
 1. (https://youtu.be/OPda7mPdRsU)
 1. (https://youtu.be/uI5EJ5PAxF4)
 
-## Questions
-Match the Agile Manifesto values
-
-1. Individuals and interactions over
-- a) comprehensive documentation
-- b) processes and tools
-- c) following a plan
-- d) up front design
-- e) contract negotiation
-
-2. Working software over
-- a) comprehensive documentation
-- b) processes and tools
-- c) following a plan
-- d) up front design
-- e) contract negotiation
-
-3. Customer collaboration over
-- a) comprehensive documentation
-- b) processes and tools
-- c) following a plan
-- d) up front design
-- e) contract negotiation
-
-4. Responding to change over
-- a) comprehensive documentation
-- b) processes and tools
-- c) following a plan
-- d) up front design
-- e) contract negotiation
-
-5. That is, while there is value in the items on the right, we value the items on the left more.
-- a) true
-- b) false
