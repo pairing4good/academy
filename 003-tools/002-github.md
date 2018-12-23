@@ -9,7 +9,7 @@
 1. (https://github.com/join)
 2. (https://help.github.com/articles/create-a-repo/)
 
-## Learning Outcomes 
+## Key Concepts
 1. GitHub is an online Git service where thought workers
     1. Store their work remotely 
     2. Collaborate with others

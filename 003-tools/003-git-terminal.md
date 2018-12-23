@@ -20,7 +20,7 @@
 1. (https://help.github.com/articles/creating-a-new-repository/)
 2. (https://www.jetbrains.com/help/idea/settings-tools-terminal.htm)
 
-## Learning Outcomes 
+## Key Concepts
 1. `cd` stands for change directory (example: `cd Documents`)
 1. `cd ..` changes the current location up one directory (example: if you were in a directory `~/Documents/stuff` `cd ..` would change your current location to `~/Documents`)
 1. `ls` lists all of the files and directories in your current location. 

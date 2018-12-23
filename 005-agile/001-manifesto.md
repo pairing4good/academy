@@ -12,7 +12,7 @@
 1. (https://youtu.be/OPda7mPdRsU)
 1. (https://youtu.be/uI5EJ5PAxF4)
 
-## Learning Outcomes
+## Key Concepts
 
 1. The Agile Manifesto was a recognition that the software industry needed a fundamental shift rather than just more best practices.  
 
