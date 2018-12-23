@@ -12,3 +12,15 @@
 1. (https://youtu.be/OPda7mPdRsU)
 1. (https://youtu.be/uI5EJ5PAxF4)
 
+## Learning Outcomes
+
+1. The Agile Manifesto was a recognition that the software industry needed a fundamental shift rather than just more best practices.  
+
+1. Four Agile Manifesto Values
+
+    1. Individuals and interactions over processes and tools 
+    1. Working software over comprehensive documentation 
+    1. Customer collaboration over contract negotiation 
+    1. Responding to change over following a plan
+
+1. While both sides have value, the Agile Manifesto favors the fist value over the second value. 
