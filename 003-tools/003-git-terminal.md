@@ -19,3 +19,17 @@
 ## Resources
 1. (https://help.github.com/articles/creating-a-new-repository/)
 2. (https://www.jetbrains.com/help/idea/settings-tools-terminal.htm)
+
+## Learning Outcomes 
+1. `cd` stands for change directory (example: `cd Documents`)
+1. `cd ..` changes the current location up one directory (example: if you were in a directory `~/Documents/stuff` `cd ..` would change your current location to `~/Documents`)
+1. `ls` lists all of the files and directories in your current location. 
+1. `cd ~` takes you back to your home user directory.  
+1. `git init` followed by your repository name will create a new Git repository with the name you provide. 
+1. `git status` lists the files and identifies which files have been staged to be versioned.  
+    1. Red: not staged
+    2. Green: staged
+1. `git add` followed by the file name or directory you want to stage will stage the changes you specify.  
+1. `git commit -m` followed by a descriptive message in double quotes will version your changes locally on your computer.  
+1. `git push origin master` will push your locally versioned changes to the cloud on GitHub.
+1. `git pull origin master` pulls changes that exist on GitHub to your local machine.  
