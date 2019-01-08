@@ -3,7 +3,7 @@
 
 1. watch 
 	1. [![YouTube](https://i.ytimg.com/vi/g5SqzUcYk64/default.jpg)](https://www.youtube.com/watch?v=g5SqzUcYk64)
-	1. [![YouTube](https://i9.ytimg.com/vi/8BPllmrS12k/mqdefault.jpg?sqp=CKzJ0uEF&rs=AOn4CLBTAyppfzR_BZrNB8CAv7EqIALXGQ&time=1546954046437)](https://youtu.be/8BPllmrS12k)
+	1. [![YouTube](https://i.ytimg.com/vi/8BPllmrS12k/default.jpg)](https://youtu.be/8BPllmrS12k)
 	
 1. create your own 1 minute video 
 	1. introduce yourself
