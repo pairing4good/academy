@@ -1,7 +1,9 @@
 # Scratch Program
 
 
-1. watch [![YouTube](https://i.ytimg.com/vi/n8luDYy75o0/default.jpg)](https://www.youtube.com/watch?v=n8luDYy75o0)
+1. watch 
+	1. [![YouTube](https://i.ytimg.com/vi/n8luDYy75o0/default.jpg)](https://www.youtube.com/watch?v=n8luDYy75o0)
+	1. [![YouTube](https://i.ytimg.com/vi/qRPLLAR6Kn0/default.jpg)](https://www.youtube.com/watch?v=qRPLLAR6Kn0)
 2. go to https://scratch.mit.edu/projects/editor/
 3. create a game 
 4. select 'File -> Download to your computer' from the menu
