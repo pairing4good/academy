@@ -26,4 +26,7 @@
 1. Condition: a branch that tests a condition and take either one action or another action, depending on whether the condition is true or false.
 1. Boolean: a binary variable, having two possible values called “true” and “false"
 1. Loop: a control flow statement that makes a computer do the same thing over and over.
-1. While Loop: executes until the condition is true.
+1. While Loop: executes until the condition is false.
+1. `Ctrl-C` will cancel your terminal execution.
+1. Do While Loop: executes at least once and every time after until the condition is false.
+1. For Loop: provides three parameters: start, expression and incrementer. The start sets the initial value.  The expression evaluates a condition to determine if the loop should be executed.  The incrementer increments the the value.
