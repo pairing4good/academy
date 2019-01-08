@@ -20,6 +20,7 @@
 ## Resources
 1. (https://youtu.be/OPda7mPdRsU)
 2. (https://youtu.be/uI5EJ5PAxF4)
+1. {(http://www.glowtouch.com/downloads/Java_CheatSheet_kuVN33acfTx2Ab8M.pdf)
 
 ## Key Concepts
 1. Function: a named section of a program that performs a specific action or task.
@@ -30,3 +31,6 @@
 1. `Ctrl-C` will cancel your terminal execution.
 1. Do While Loop: executes at least once and every time after until the condition is false.
 1. For Loop: provides three parameters: start, expression and incrementer. The start sets the initial value.  The expression evaluates a condition to determine if the loop should be executed.  The incrementer increments the the value.
+1. `=` assigns a value to a variable
+1. `==` compares two values
+1. _See the cheat sheet in the resources for a complete list of operators._
