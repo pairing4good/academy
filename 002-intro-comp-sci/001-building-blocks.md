@@ -1,7 +1,10 @@
 # Building Blocks
 
 
-1. watch [![YouTube](https://i.ytimg.com/vi/g5SqzUcYk64/default.jpg)](https://www.youtube.com/watch?v=g5SqzUcYk64)
+1. watch 
+	1. [![YouTube](https://i.ytimg.com/vi/g5SqzUcYk64/default.jpg)](https://www.youtube.com/watch?v=g5SqzUcYk64)
+	1. [![YouTube](https://i9.ytimg.com/vi/8BPllmrS12k/mqdefault.jpg)](https://youtu.be/8BPllmrS12k)
+	
 1. create your own 1 minute video 
 	1. introduce yourself
 	2. share one thing you learned.
