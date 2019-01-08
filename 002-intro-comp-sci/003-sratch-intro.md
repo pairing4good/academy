@@ -26,3 +26,4 @@
 1. Condition: a branch that tests a condition and take either one action or another action, depending on whether the condition is true or false.
 1. Boolean: a binary variable, having two possible values called “true” and “false"
 1. Loop: a control flow statement that makes a computer do the same thing over and over.
+1. While Loop: executes until the condition is true.
