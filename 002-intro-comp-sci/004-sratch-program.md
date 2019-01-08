@@ -19,6 +19,8 @@
 ## Resources
 1. (https://youtu.be/OPda7mPdRsU)
 2. (https://youtu.be/uI5EJ5PAxF4)
+3. (http://www.glowtouch.com/downloads/Java_CheatSheet_kuVN33acfTx2Ab8M.pdf)
 
 ## Key Concepts
 1. Variable: stores information to be referenced and used by a program
+1. _See the cheat sheet in the resources for a complete list of Java data types._
