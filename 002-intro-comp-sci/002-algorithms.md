@@ -1,7 +1,9 @@
 # Algorithms
 
 
-1. watch [![YouTube](https://i.ytimg.com/vi/kkcLiKRw_9s/default.jpg)](https://www.youtube.com/watch?v=kkcLiKRw_9s)
+1. watch 
+	1. [![YouTube](https://i.ytimg.com/vi/kkcLiKRw_9s/default.jpg)](https://www.youtube.com/watch?v=kkcLiKRw_9s)
+	1. [![YouTube](https://i.ytimg.com/vi/gldQFRWUs3Q/default.jpg)](https://www.youtube.com/watch?v=gldQFRWUs3Q)
 2. create your own 1 minute video 
 	1. create a how to video that walks through an every day task step-by-step
 3. upload this video to YouTube 
