@@ -20,4 +20,5 @@
 1. `if` block that evaluates a boolean (true/false) expression
 1. `else` block that executes when the if condition evaluates to false
 1. Each logic branch in an if/else is mutually exclusive and will be called only if the other logic branch is not called.
-1. Switch Statement: a type of selection control mechanism used to allow the value of a variable or expression to change the control flow of program execution via search and map. ** Avoid using this in real code **
+1. Switch Statement: allows a variable to be tested for equality against a list of values. Each value is called a case, and the variable being switched on is checked for each switch case. **Avoid using this in real code**
+1. Ternary Operator: the only conditional operator that takes three operands. The ternary operator is a one liner replacement for if-then-else statement and used a lot in java programming.
