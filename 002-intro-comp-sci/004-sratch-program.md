@@ -17,3 +17,6 @@
 ## Resources
 1. (https://youtu.be/OPda7mPdRsU)
 2. (https://youtu.be/uI5EJ5PAxF4)
+
+## Key Concepts
+1. Variable: stores information to be referenced and used by a program
