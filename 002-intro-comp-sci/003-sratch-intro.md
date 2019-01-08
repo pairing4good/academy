@@ -20,7 +20,7 @@
 ## Resources
 1. (https://youtu.be/OPda7mPdRsU)
 2. (https://youtu.be/uI5EJ5PAxF4)
-1. {(http://www.glowtouch.com/downloads/Java_CheatSheet_kuVN33acfTx2Ab8M.pdf)
+1. (http://www.glowtouch.com/downloads/Java_CheatSheet_kuVN33acfTx2Ab8M.pdf)
 
 ## Key Concepts
 1. Function: a named section of a program that performs a specific action or task.
