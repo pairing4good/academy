@@ -1,7 +1,10 @@
 # Intro to Scratch
 
 
-1. watch [![YouTube](https://i.ytimg.com/vi/fm8r-32PLKE/default.jpg)](https://www.youtube.com/watch?v=fm8r-32PLKE)
+1. watch 
+	1. [![YouTube](https://i.ytimg.com/vi/fm8r-32PLKE/default.jpg)](https://www.youtube.com/watch?v=fm8r-32PLKE)
+	1. [![YouTube](https://i.ytimg.com/vi/SbPHEBZ6cBc/default.jpg)](https://www.youtube.com/watch?v=SbPHEBZ6cBc)
+	1. [![YouTube](https://i.ytimg.com/vi/Nha_t8_1Izo/default.jpg)](https://www.youtube.com/watch?v=Nha_t8_1Izo)
 2. go to https://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 3. complete the 'Getting Started with Scratch' tutorial
 4. select 'File -> Download to your computer' from the menu
