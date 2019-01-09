@@ -29,3 +29,11 @@
 1. `!!` runs the last command again
 1. `clear` cleans the current terminal window
 1. `pwd` present working directory
+1. `ls -a` shows hidden files
+1. `ls -l` shows files with more information
+1. The three parts of a terminal command are
+	1. Command
+	1. Option
+	1. Argument
+1. `mkdir` make directory
+1. `~` user directory in UNIX terminal window
