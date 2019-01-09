@@ -1,7 +1,9 @@
 # Hello World
 
 ## Discover
-- watch attached video  [![YouTube](https://i.ytimg.com/vi/NT9A8j1fBIg/default.jpg)](https://www.youtube.com/watch?v=NT9A8j1fBIg)
+- watch
+  - [![YouTube](https://i.ytimg.com/vi/NT9A8j1fBIg/default.jpg)](https://www.youtube.com/watch?v=NT9A8j1fBIg)
+  - [![YouTube](https://i.ytimg.com/vi/ZVJ7kpEMc7U/default.jpg)](https://www.youtube.com/watch?v=ZVJ7kpEMc7U)
 
 ## Try
 - Site: SoloLearn.com
