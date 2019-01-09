@@ -1,6 +1,7 @@
 # Scrum
 
 1. watch [![YouTube](https://i.ytimg.com/vi/9TycLR0TqFA/default.jpg)](https://www.youtube.com/watch?v=9TycLR0TqFA)
+1. read [Lesson: Numbers and Strings](https://docs.oracle.com/javase/tutorial/java/data/index.html)
 2. create your own 1 minute video 
 	1. share one thing you learned
 3. upload this video to YouTube
