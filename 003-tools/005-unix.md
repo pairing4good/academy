@@ -19,3 +19,13 @@
 
 ## Resources
 1. (https://www.jetbrains.com/help/idea/settings-tools-terminal.htm)
+
+## Key Concepts
+1. `ls` list
+1. `cd` change directory
+1. `.` current directory
+1. `..` directory that contains the current directory
+1. `TAB` provides auto complete for partial commands
+1. `!!` runs the last command again
+1. `clear` cleans the current terminal window
+1. `pwd` present working directory
