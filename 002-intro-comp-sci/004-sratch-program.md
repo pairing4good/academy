@@ -26,4 +26,5 @@
 1. `int` can represent negative and positive numbers ranging from (-2<sup>31</sup>) to (2<sup>31</sup> - 1)
 1. `char` represents a single character that converts to a ASCII number
 1. `float` has a precision problem
+1. `double` should be used if you need to hold large amounts of precision
 1. _See the cheat sheet in the resources for a complete list of Java data types._
