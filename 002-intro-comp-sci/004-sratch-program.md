@@ -29,4 +29,5 @@
 1. `double` should be used if you need to hold large amounts of precision
 1. `void` is a type but not a data type.  Think of `void` as a placeholder for nothing.
 1. `boolean` is a primative data type in Java that holds the value `true` or `false`
+1. `String` is a data type in Java that holds a sequence of characters
 1. _See the cheat sheet in the resources for a complete list of Java data types._
