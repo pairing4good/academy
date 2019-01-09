@@ -1,6 +1,7 @@
 # Agile Retrospectives
 
 1. watch [![YouTube](https://i.ytimg.com/vi/WyYm_-kmgUs/default.jpg)](https://www.youtube.com/watch?v=WyYm_-kmgUs)
+2. read [Lesson: Generics](https://docs.oracle.com/javase/tutorial/java/generics/index.html)
 2. create your own 1 minute video 
 	1. share one thing you learned
 	1. share an example how you might use an inspect and adapt cycle in your daily life
