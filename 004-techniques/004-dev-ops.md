@@ -1,6 +1,7 @@
 # Dev Ops
 
 1. watch [![YouTube](https://i.ytimg.com/vi/_I94-tJlovg/default.jpg)](https://www.youtube.com/watch?v=_I94-tJlovg)
+1. read [Lesson: Annotations](https://docs.oracle.com/javase/tutorial/java/annotations/index.html)
 2. create your own 1 minute video
 	1. share one thing you learned
 	1. share an example how you might use this in the real world
