@@ -23,5 +23,5 @@
 
 ## Key Concepts
 1. Variable: stores information to be referenced and used by a program
-1. `int` can represent negative and positive numbers ranging from -2<sup>31</sup> to 2<sup>31</sup> - 1
+1. `int` can represent negative and positive numbers ranging from (-2<sup>31</sup>) to (2<sup>31</sup> - 1)
 1. _See the cheat sheet in the resources for a complete list of Java data types._
