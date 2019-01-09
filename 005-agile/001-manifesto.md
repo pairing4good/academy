@@ -24,9 +24,4 @@
     1. Customer collaboration over contract negotiation 
     1. Responding to change over following a plan
 
-1. While both sides have value, the Agile Manifesto favors the fist value over the second value. 
-1. Object: In Object-oriented programming, an object is an instance of a Class. Objects are an abstraction. They hold both data, and ways to manipulate the data.
-1. Class: a blueprint or a template for creating different objects which defines its properties and behaviors. 
-1. Inheritance: a mechanism wherein a new class is derived from an existing class.
-1. Interface: an abstract type that is used to specify a behavior that classes must implement. They are similar to protocols.
-1. Package: organizes classes into namespaces, providing a unique namespace for each type it contains. 
+1. While both sides have value, the Agile Manifesto favors the fist value over the second value.  
