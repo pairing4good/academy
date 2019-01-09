@@ -1,6 +1,7 @@
 # Agile Manifesto
 
 1. watch [![YouTube](https://i.ytimg.com/vi/rf8Gi2RLKWQ/default.jpg)](https://www.youtube.com/watch?v=rf8Gi2RLKWQ)
+1. read [Lesson: Interfaces and Inheritance](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
 2. create your own 1 minute video 
 	1. share one thing you learned
 	1. share which of the agile values is most important and why
