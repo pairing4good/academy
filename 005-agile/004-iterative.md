@@ -1,6 +1,7 @@
 # Iterative Development
 
 1. watch [![YouTube](https://i.ytimg.com/vi/H0_yKBitO8M/default.jpg)](https://www.youtube.com/watch?v=H0_yKBitO8M)
+1. read [Lesson: Packages](https://docs.oracle.com/javase/tutorial/java/package/index.html)
 2. create your own 1 minute video 
 	1. share one thing you learned
 	1. share an example how you might use an iterative approach in your daily life
