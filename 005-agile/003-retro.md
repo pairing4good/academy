@@ -13,3 +13,14 @@
 1. [Agile Retrospectives: Making Good Teams Great] (https://www.amazon.com/dp/0977616649/ref=cm_sw_r_cp_api_Eh5zBb1AFBCF4)
 1. (https://youtu.be/OPda7mPdRsU)
 1. (https://youtu.be/uI5EJ5PAxF4)
+
+## Key Concepts
+1. Retrospective Meetings are focused on getting feedback as early as possbile
+1. Retrospectives are focused on
+	1. Inspecting
+	1. Adapting
+1. Retrospectives produce a list of improvements or actions
+1. The list of improvements are owned by the team
+1. Retrospective meetings are run regularly at the end of every Sprint, Release, Project, and when needed.
+1. The entire team is invited to a Retrospective.
+1. Generic programming is a style of computer programming in which algorithms are written in terms of types to-be-specified-later that are then instantiated when needed for specific types provided as parameters.
