@@ -12,3 +12,12 @@
 ## Resources
 1. (https://youtu.be/OPda7mPdRsU)
 1. (https://youtu.be/uI5EJ5PAxF4)
+
+## Key Concepts
+1. A prototype is an early sample, model, or release of a product built to test a concept or process or to act as a thing to be replicated or learned from.
+1. Iterative Process
+	1. Prototype
+	1. Refine
+	1. Repeat
+1. Package: a grouping of related types providing access protection and name space management.
+1. Package names are written in all lower case to avoid conflict with the names of classes or interfaces.
