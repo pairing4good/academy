@@ -12,3 +12,16 @@
 ## Resources
 1. (https://youtu.be/OPda7mPdRsU)
 1. (https://youtu.be/uI5EJ5PAxF4)
+
+## Key Concepts
+1. DevOps integrates developers and operations teams in order to improve collaboration and productivity by automating infrastructure, automating workflows and continuously measuring application performance.
+1. DevOps teams try to automate everthing.
+1. DevOps
+	1. Innovate faster
+	1. More responsive to business needs
+	1. Better Collaboration
+	1. Better quality
+	1. More frequent releases
+1. Benefits of DevOps
+	1. Faster time to market
+	1. More focus on improving the business
