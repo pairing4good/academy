@@ -27,3 +27,6 @@
 	1. void: method doesn't return any value
 	1. main: the name of the method
 1. A single-line comment starts with two forward slashes and continues until it reaches the end of the line. **Comments should be avoided (Clean Code ch 4)**
+1. Multi-line comments start with a forward slash followed by an asterisk, and ends with an asterisk followed by a forward slash. 
+1. The modulo (or remainder) math operation performs an integer division of one value by another, and returns the remainder of that division. 
+1. The NOT (!) logical operator is used to reverse the logical state of its operand. If a condition is true, the NOT logical operator will make it false.
