@@ -3,7 +3,7 @@
 ## Discover
 - watch [![YouTube](https://i.ytimg.com/vi/QVMfHpoCjlU/default.jpg)](https://www.youtube.com/watch?v=QVMfHpoCjlU)
 - Read (https://docs.gradle.org/current/userguide/tutorial_java_projects.html)
-- watch [![YouTube](https://i.ytimg.com/vi/JwPYjnhah3g/default.jpg)](https://www.youtube.com/watch?v=JwPYjnhah3g)zoom
+- watch [![YouTube](https://i.ytimg.com/vi/JwPYjnhah3g/default.jpg)](https://www.youtube.com/watch?v=JwPYjnhah3g)
 
 ## Try
 - Site: SoloLearn.com
