@@ -12,4 +12,12 @@
 
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
-- Branch: 002-java-koans
+- Complete
+  - AboutCasting
+  - AboutConstructors
+  - AboutEnums
+  - AboutExceptions
+  - AboutMethodPreference
+  - AboutBitwiseOperators
+  - AboutArrays
+  - AboutVarArgs
