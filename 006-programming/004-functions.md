@@ -10,4 +10,14 @@
 
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
-- Branch: 003-java-koans
+- Complete
+  - AboutAutoboxing
+  - AboutCollections
+  - AboutComparison
+  - AboutDates
+  - AboutEquality
+  - AboutFileIO
+  - AboutInnerClasses
+  - AboutLocale
+  - AboutRegularExpressions
+  - AboutSerialization
