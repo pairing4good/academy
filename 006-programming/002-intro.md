@@ -15,7 +15,7 @@
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
 - Complete
-	1. AboutAssertions
+        1. AboutAssertions
         1. AboutEquality
         1. AboutStrings
         1. AboutArithmeticOperators
