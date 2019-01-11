@@ -10,4 +10,4 @@
 
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
-- Branch: 004-java-koans
+- Complete `AboutMocks`
