@@ -12,7 +12,14 @@
 
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
-- Branch: 006-java-koans
+- Complete
+  - AboutDefaultMethods
+  - AboutOptional
+  - AboutLocalTime
+  - AboutLambdas
+  - AboutStreams
+  - AboutMultipleInheritance
+  - AboutBase64
 
 ## Resources
 - (https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html)
