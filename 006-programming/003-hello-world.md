@@ -26,3 +26,6 @@
 1. `++` after a number adds 1 to the number on the left.
 1. Compiler converts source code into machine-code or lower-level form in which the program can be executed.
 1. `\n` is the Java String representation of a new line
+1. Java array has a fixed length while ArrayList has a variable length
+1. Java array can store primatives or objects while ArrayLists can only store objects or generics.
+
