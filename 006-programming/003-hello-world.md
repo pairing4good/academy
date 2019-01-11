@@ -21,3 +21,8 @@
   - AboutBitwiseOperators
   - AboutArrays
   - AboutVarArgs
+
+## Key Concepts
+1. `++` after a number adds 1 to the number on the left.
+1. Compiler converts source code into machine-code or lower-level form in which the program can be executed.
+1. `\n` is the Java String representation of a new line
