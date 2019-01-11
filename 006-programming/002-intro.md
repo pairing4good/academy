@@ -15,15 +15,15 @@
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
 - Complete
-        1. AboutAssertions
-        1. AboutEquality
-        1. AboutStrings
-        1. AboutArithmeticOperators
-        1. AboutConditionals
-        1. AboutLoops
-        1. AboutPrimitives
-        1. AboutObjects
-        1. AboutInheritance
+	1. AboutAssertions
+	1. AboutEquality
+	1. AboutStrings
+	1. AboutArithmeticOperators
+	1. AboutConditionals
+	1. AboutLoops
+	1. AboutPrimitives
+	1. AboutObjects
+	1. AboutInheritance
 
 ## Key Concepts
 1. In Java, each code statement must end with a semicolon.
