@@ -23,6 +23,8 @@
   - AboutVarArgs
 
 ## Key Concepts
+1. In Java, an array starts counting from zero.
+1. The enhanced for loop declares a variable of a type compatible with the elements of the array being accessed.
 1. `++` after a number adds 1 to the number on the left.
 1. Compiler converts source code into machine-code or lower-level form in which the program can be executed.
 1. `\n` is the Java String representation of a new line
