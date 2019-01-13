@@ -50,4 +50,4 @@
 1. Use the final keyword to mark a variable constant, so that it can be assigned only once.
 1. The attributes are class level variables.
 1. Java method, or `C` function, contains behavior.
-1. Gradle, like make, is a general-purpose build tool.
+1. Gradle, like Make, is a general-purpose build tool.
