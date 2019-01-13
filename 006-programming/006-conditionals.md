@@ -38,4 +38,3 @@ _An explanation for avoiding switch statements can be found in chapter 3 of [Cle
 1. If you try to get a value that is not present in your map, it returns the value of null.
 1. A Set is a collection that cannot contain duplicate elements.
 1. An Iterator is an object that enables to cycle through a collection, obtain or remove elements.
-1. 
