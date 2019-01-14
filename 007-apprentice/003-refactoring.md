@@ -1,7 +1,7 @@
 # Refactoring
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/D4auWwMsEnY/default.jpg)](https://www.youtube.com/watch?v=D4auWwMsEnY) **The first 14 minutes**
+-  watch attached video [![YouTube](https://i.ytimg.com/vi/D4auWwMsEnY/default.jpg)](https://www.youtube.com/watch?v=D4auWwMsEnY) **(The first 14 minutes)**
 - Read chapters 4, 5 & 6 in Extreme Programming Explained (http://a.co/d/5RExPZU)
 
 ## Apply
