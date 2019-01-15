@@ -50,3 +50,9 @@
    1. Inappropriate Intimacy: One class uses the internal fields and methods of another class.
    1. Message Chains: In code you see a series of calls resembling $a->b()->c()->d()
    1. Middle Man: If a class performs only one action, delegating work to another class, why does it exist at all?
+1. The four values
+   1. Communication
+   1. Simplicity
+   1. Feedback 
+   1. Courage
+1. 
