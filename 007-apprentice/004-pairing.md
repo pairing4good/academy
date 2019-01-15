@@ -1,7 +1,7 @@
 # Pair Programming
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/vgkahOzFH2Q/default.jpg)](https://www.youtube.com/watch?v=vgkahOzFH2Q)
+-  watch [![YouTube](https://i.ytimg.com/vi/YhV4TaZaB84/default.jpg)](https://www.youtube.com/watch?v=YhV4TaZaB84)
 - Read chapters 7, 8 & 9 in Extreme Programming Explained (http://a.co/d/5RExPZU)
 
 ## Try
