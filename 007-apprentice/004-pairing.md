@@ -20,3 +20,9 @@
 - Add a link to your Trello Board
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts
+1. Pair Driver - focused on the here and now
+1. Pair Navigator - focused on where you are going
+1. Pair Programming power is the willingness to be vulnerable.
+1. Both pair should be focused on a single computer
