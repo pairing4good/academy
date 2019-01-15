@@ -52,6 +52,9 @@
    1. Inappropriate Intimacy: One class uses the internal fields and methods of another class.
    1. Message Chains: In code you see a series of calls resembling $a->b()->c()->d()
    1. Middle Man: If a class performs only one action, delegating work to another class, why does it exist at all?
+1. Favor composition over inheritance
+1. Inheritance: enables new objects to take on the properties of existing objects.
+1. Composition: a way to combine objects or data types into more complex ones.
 1. The four XP values
    1. Communication
    1. Simplicity
