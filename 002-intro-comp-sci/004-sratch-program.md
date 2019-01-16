@@ -5,7 +5,7 @@
 	1. [![YouTube](https://i.ytimg.com/vi/n8luDYy75o0/default.jpg)](https://www.youtube.com/watch?v=n8luDYy75o0)
 	1. [![YouTube](https://i.ytimg.com/vi/qRPLLAR6Kn0/default.jpg)](https://www.youtube.com/watch?v=qRPLLAR6Kn0)
 2. go to https://scratch.mit.edu/projects/editor/
-3. create a game 
+3. create a simple game that uses at least one orange control and one green operator
 4. select 'File -> Download to your computer' from the menu
 5. attach your project '.sb2' file to this assignment
 6. demo
