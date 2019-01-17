@@ -18,3 +18,4 @@
 ## Key Concepts
 - Polymorphism achieved through interfaces reverses the flow of control.
 - If you have complete control over your dependency structure then you can avoid writing fragile, ridgid and non-reusable modules.
+- The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures.
