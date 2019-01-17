@@ -1,7 +1,7 @@
 # Test Driven Development (TDD)
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/jGVfCYlz3ZM/default.jpg)](https://www.youtube.com/watch?v=jGVfCYlz3ZM)
+-  watch [![YouTube](https://i.ytimg.com/vi/jGVfCYlz3ZM/default.jpg)](https://www.youtube.com/watch?v=jGVfCYlz3ZM)
 - Read chapters 1 & 2 in Clean Code (http://a.co/d/c31QNpN)
 
 ## Apply
