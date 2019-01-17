@@ -1,7 +1,7 @@
 # Comments
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/K0uleV1sC4E/default.jpg)](https://www.youtube.com/watch?v=K0uleV1sC4E)
+-  watch [![YouTube](https://i.ytimg.com/vi/K0uleV1sC4E/default.jpg)](https://www.youtube.com/watch?v=K0uleV1sC4E)
 - Read chapters 4 & 5 in Clean Code (http://a.co/d/c31QNpN)
 
 ## Apply
