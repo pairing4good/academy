@@ -1,7 +1,7 @@
 # Test Driven Development (TDD)
 
 ## Discover
--  watch [![YouTube](https://i.ytimg.com/vi/jGVfCYlz3ZM/default.jpg)](https://www.youtube.com/watch?v=jGVfCYlz3ZM) _Uncle Bob, the author of Clean Code, speaking about the SOLID principles at Yale_
+-  watch [![YouTube](https://i.ytimg.com/vi/jGVfCYlz3ZM/default.jpg)](https://www.youtube.com/watch?v=jGVfCYlz3ZM) _Uncle Bob, the author of Clean Code, speaking about the [SOLID principles](https://en.wikipedia.org/wiki/SOLID) at Yale_
 - Read chapters 1 & 2 in Clean Code (http://a.co/d/c31QNpN)
 
 ## Apply
