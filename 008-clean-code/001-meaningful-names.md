@@ -3,6 +3,7 @@
 ## Discover
 -  watch [![YouTube](https://i.ytimg.com/vi/jGVfCYlz3ZM/default.jpg)](https://www.youtube.com/watch?v=jGVfCYlz3ZM) _Uncle Bob, the author of Clean Code, speaking about the [SOLID principles](https://en.wikipedia.org/wiki/SOLID) at Yale_
 - Read chapters 1 & 2 in Clean Code (http://a.co/d/c31QNpN)
+- Read https://www.baeldung.com/java-final-finally-finalize
 
 ## Apply
 - Create User Stories http://codekata.com/kata/kata01-supermarket-pricing/ stories on your Trello Board in the "To Do" List.
@@ -36,3 +37,9 @@
 - Pick a single name for each concept. Avoid using the same word for two purpose.
 - Place names in context for your reader by enclosing them in well-named classes, functions, and namespaces.
 - The hardest thing about choosing good names is that it requires good descriptive skills and a shared cultural background.
+- We can apply the final keyword to class, method, field, variable and method parameter declarations.
+- Making a class final means that it won’t be possible to extend that class
+- Adding final to a method means that it won’t be possible to override that method
+- Finally, putting final in front of a field, a variable or a parameter means that once the reference has been assigned then it cannot be changed
+- The finally block is an optional block use with a try/catch statement that is always called even if an exception is thrown.
+- And finally, the finalize method is a protected method, defined in the Object class. It’s called by the garbage collector on objects that aren’t referenced anymore and have been selected for garbage collection.
