@@ -14,3 +14,7 @@
 - Add a link to your Trello Board
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts
+- Polymorphism achieved through interfaces reverses the flow of control.
+- If you have complete control over your dependency structure then you can avoid writing fragile, ridgid and non-reusable modules.
