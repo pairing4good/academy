@@ -6,13 +6,20 @@
 - watch attached video [![YouTube](https://i.ytimg.com/vi/xy4gWfMf0Y4/default.jpg)](https://www.youtube.com/watch?v=xy4gWfMf0Y4)
 
 ## Try
-- - Complete the IntelliJ “Creating, Running and Packaging Your First Java Application” tutorial. 
+- - Complete the IntelliJ [“Creating, Running and Packaging Your First Java Application”](https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html) tutorial. 
 - Version your project with git and push it to a new GitHub repository. 
 - Attach this new repository link to this assignment. 
 
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
-- Branch: 006-java-koans
+- Complete
+  - AboutDefaultMethods
+  - AboutOptional
+  - AboutLocalTime
+  - AboutLambdas
+  - AboutStreams
+  - AboutMultipleInheritance
+  - AboutBase64
 
 ## Resources
 - (https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html)
