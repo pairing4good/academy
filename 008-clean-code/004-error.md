@@ -14,3 +14,21 @@
 - Add a link to your Trello Board
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Resources
+- https://en.wikipedia.org/wiki/SOLID
+
+## Key Concepts
+- SOLID Principles
+   - Single responsibility principle: a class should have one, and only one, reason to change.
+   - Open/closed principle: "software entities … should be open for extension, but closed for modification."
+   - Liskov substitution principle: "objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program." See also design by contract.
+   - Interface segregation principle: "many client-specific interfaces are better than one general-purpose interface."[4]
+   - Dependency inversion principle: one should "depend upon abstractions, not concretions."
+- Objects hide their data behind abstractions and expose functions that operate on that data. 
+- Data structure expose their data and have no meaningful functions.
+- DTO (Data Transfer Objects): a data structure that has public variables and no functions.
+- Error handling is important, but if it obscures logic, it’s wrong.
+- The price of checked exceptions is an Open/Closed Principle violation.
+- Wrapping third-party APIs is a best practice.
+- Avoid passing null in your code whenever possible.
