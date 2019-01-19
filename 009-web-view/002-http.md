@@ -25,3 +25,9 @@
 - Markup language: is a computer language that uses tags to define elements within a document.
 - https is a secure protocol that uses encryption to secure web interactions. 
 - HTTP means HyperText Transfer Protocol. HTTP is the underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands.
+- All HTTP response status codes are separated into five classes (or categories). The first digit of the status code defines the class of response. The last two digits do not have any class or categorization role. There are five values for the first digit:
+    - 1xx (Informational): The request was received, continuing process
+    - 2xx (Successful): The request was successfully received, understood, and accepted
+    - 3xx (Redirection): Further action needs to be taken in order to complete the request
+    - 4xx (Client Error): The request contains bad syntax or cannot be fulfilled
+    - 5xx (Server Error): The server failed to fulfill an apparently valid request
