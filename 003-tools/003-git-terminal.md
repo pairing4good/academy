@@ -2,6 +2,7 @@
 
 1. watch [![YouTube](https://i.ytimg.com/vi/yTt0-NBHQ4s/default.jpg)](https://www.youtube.com/watch?v=yTt0-NBHQ4s)
 1. complete this tutorial (https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+    1. **Note: In step 4 do not use `!` in the commit message.  This will not work.**
 1. attach a link to your new GitHub repository to this assignment
 
 ## Resources
