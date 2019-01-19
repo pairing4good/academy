@@ -17,7 +17,7 @@
 
 ## Key Concepts
 - Polymorphism achieved through interfaces reverses the flow of control.
-- If you have complete control over your dependency structure then you can avoid writing fragile, ridgid and non-reusable modules.
+- If you have complete control over your dependency structure then you can avoid writing fragile, rigid and non-reusable modules.
 - The proper use of comments is to compensate for our failure to express ourself in code. Note that I used the word failure. I meant it. Comments are always failures.
 - Code formatting is about communication, and communication is the professional developer’s first order of business.
 - Wrap lines so you don't have to scroll when you are reading a code (120 characters)
