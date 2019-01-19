@@ -14,3 +14,6 @@
 - Add a link to your Trello Board
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts
+- 
