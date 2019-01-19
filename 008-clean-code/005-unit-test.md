@@ -1,7 +1,9 @@
 # Unit Tests
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/-I1Yh4Q2hTM/default.jpg)](https://www.youtube.com/watch?v=-I1Yh4Q2hTM)
+-  watch
+   - [![YouTube](https://i.ytimg.com/vi/-I1Yh4Q2hTM/default.jpg)](https://www.youtube.com/watch?v=-I1Yh4Q2hTM)
+   - [![YouTube](https://i.ytimg.com/vi/xahwVmf8itI/default.jpg)](https://www.youtube.com/watch?v=xahwVmf8itI)
 - Read chapters 9 & 10 in Clean Code (http://a.co/d/c31QNpN)
 
 ## Apply
