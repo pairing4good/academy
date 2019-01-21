@@ -18,7 +18,7 @@
 14. type 'ls -l' followed by enter
 
 ## Resources
-1. (https://www.jetbrains.com/help/idea/settings-tools-terminal.htm)
+1. (https://www.jetbrains.com/help/idea/settings-tools-terminal.html)
 
 ## Key Concepts
 1. `ls` list
