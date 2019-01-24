@@ -1,7 +1,7 @@
 # HTTP (Hypertext Transfer Protocol)
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/lHPkQfMu27w/default.jpg)](https://www.youtube.com/watch?v=lHPkQfMu27w)
+-  watch [![YouTube](https://i.ytimg.com/vi/lHPkQfMu27w/default.jpg)](https://www.youtube.com/watch?v=lHPkQfMu27w)
 
 ## Try
 - Site: SoloLearn.com
@@ -31,3 +31,4 @@
     - 3xx (Redirection): Further action needs to be taken in order to complete the request
     - 4xx (Client Error): The request contains bad syntax or cannot be fulfilled
     - 5xx (Server Error): The server failed to fulfill an apparently valid request
+- HTTP Headers allow the client and the server to pass additional information with the request or the response.
