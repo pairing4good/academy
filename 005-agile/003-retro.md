@@ -1,6 +1,8 @@
 # Agile Retrospectives
 
-1. watch [![YouTube](https://i.ytimg.com/vi/WyYm_-kmgUs/default.jpg)](https://www.youtube.com/watch?v=WyYm_-kmgUs)
+1. watch 
+	1. [![YouTube](https://i.ytimg.com/vi/WyYm_-kmgUs/default.jpg)](https://www.youtube.com/watch?v=WyYm_-kmgUs)
+	1. [![YouTube](https://i.ytimg.com/vi/1tKmzQh8g5E/default.jpg)](https://www.youtube.com/watch?v=1tKmzQh8g5E)
 2. read [Lesson: Generics](https://docs.oracle.com/javase/tutorial/java/generics/index.html)
 2. create your own 1 minute video 
 	1. share one thing you learned
