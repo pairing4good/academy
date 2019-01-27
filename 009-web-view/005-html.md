@@ -53,3 +53,4 @@ b) demonstrate how to view/use each new feature
 - The visible part of the HTML document is between `<body>` and `</body>`.
 - The `<head>` element is a container for all the head elements. The `<head>` element can include a title for the document, scripts, styles, meta information, and more.
 - The `<title>` tag is required in all HTML documents and it defines the title of the document.
+- The HTML `<p>` element defines a paragraph. Browsers automatically add some white space (a margin) before and after a paragraph.
