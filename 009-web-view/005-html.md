@@ -44,3 +44,12 @@ b) demonstrate how to view/use each new feature
 - Add a link to your Trello Board
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts 
+- Hypertext Markup Language (HTML), a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages.
+- HTML tag. An HTML code that defines every structure on an HTML page, including the placement of text and images and hypertext links. HTML tags begin with the less-than (`<`) character and end with greater-than (`>`).
+- All HTML documents must start with a document type declaration: `<!DOCTYPE html>`.
+- The HTML document itself begins with `<html>` and ends with `</html>`.
+- The visible part of the HTML document is between `<body>` and `</body>`.
+- The `<head>` element is a container for all the head elements. The `<head>` element can include a title for the document, scripts, styles, meta information, and more.
+- The `<title>` tag is required in all HTML documents and it defines the title of the document.
