@@ -1,7 +1,9 @@
 # HTML (Hypertext Markup Language)
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/lHPkQfMu27w/default.jpg)](https://www.youtube.com/watch?v=d84Zuw7fRcA)
+-  watch
+	 - [![YouTube](https://i.ytimg.com/vi/lHPkQfMu27w/default.jpg)](https://www.youtube.com/watch?v=d84Zuw7fRcA)
+	 - [![YouTube](https://i.ytimg.com/vi/u3t6B_MambI/default.jpg)](https://www.youtube.com/watch?v=u3t6B_MambI)
 
 ## Try
 - Site: SoloLearn.com
