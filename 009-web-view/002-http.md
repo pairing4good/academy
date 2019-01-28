@@ -16,9 +16,7 @@
 - create a 1 minute video demonstrating the features that you found
 
 ## Turn In Your Assignment
-- Add a link to your Trello Board
-- Add a link to your GitHub repository
-- Add links to your story demo videos
+- Add links to your video
 
 ## Key Concepts 
 - Web server: is a program that uses HTTP (Hypertext Transfer Protocol) to serve the files that form Web pages to users, in response to their requests, which are forwarded by their computers' HTTP clients.
