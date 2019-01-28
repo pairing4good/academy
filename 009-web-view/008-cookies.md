@@ -1,7 +1,7 @@
 # Cookies
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/qFGw1nmvm9Y/default.jpg)](https://www.youtube.com/watch?v=9G-Efb6cW-w)
+-  watch [![YouTube](https://i.ytimg.com/vi/qFGw1nmvm9Y/default.jpg)](https://www.youtube.com/watch?v=9G-Efb6cW-w)
 
 ## Try
 - Site: SoloLearn.com
@@ -27,3 +27,6 @@
 ## Resources
 Thymeleaf: (https://www.thymeleaf.org)
 Sample logo: https://goo.gl/images/aYDaJs
+
+## Key Concepts
+- 
