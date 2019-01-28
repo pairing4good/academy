@@ -1,7 +1,10 @@
 # HTTP (Hypertext Transfer Protocol)
 
 ## Discover
--  watch [![YouTube](https://i.ytimg.com/vi/lHPkQfMu27w/default.jpg)](https://www.youtube.com/watch?v=lHPkQfMu27w)
+-  watch 
+     - [![YouTube](https://i.ytimg.com/vi/lHPkQfMu27w/default.jpg)](https://www.youtube.com/watch?v=lHPkQfMu27w)
+     - [![YouTube](https://i.ytimg.com/vi/FRLTDUs8iZA/default.jpg)](https://www.youtube.com/watch?v=FRLTDUs8iZA)
+     - [![YouTube](https://i.ytimg.com/vi/kxjnMnCRAKY/default.jpg)](https://www.youtube.com/watch?v=kxjnMnCRAKY)
 
 ## Try
 - Site: SoloLearn.com
