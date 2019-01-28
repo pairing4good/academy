@@ -29,4 +29,4 @@ Thymeleaf: (https://www.thymeleaf.org)
 Sample logo: https://goo.gl/images/aYDaJs
 
 ## Key Concepts
-- 
+- Cookie: A small text file (up to 4KB) created by a website that is stored in the user's computer either temporarily for that session only or permanently on the hard disk (persistent cookie). Cookies provide a way for the website to recognize you and keep track of your preferences.
