@@ -18,6 +18,9 @@
 - explore the running web app
 - create a 1 minute video demonstrating the features that you found
 
+## Walkthrough
+[![YouTube](https://i.ytimg.com/vi/3OoEp1pdVTg/default.jpg)](https://www.youtube.com/watch?v=3OoEp1pdVTg)
+
 ## Turn In Your Assignment
 - Add links to your video
 
