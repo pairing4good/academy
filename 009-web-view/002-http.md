@@ -16,6 +16,7 @@
 - clone your fork
 - follow the README.md instructions
 - explore the running web app
+- _Note: To shut down your local server simply press CTRL+C in the terminal window and the server will stop running_
 - create a 1 minute video demonstrating the features that you found
 
 ## Walkthrough
