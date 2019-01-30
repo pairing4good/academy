@@ -24,6 +24,9 @@
   - AboutPrimitives
   - AboutObjects
   - AboutInheritance
+  
+## Walkthrough
+[![YouTube](https://i.ytimg.com/vi/5x3NmqmSc3k/default.jpg)](https://www.youtube.com/watch?v=5x3NmqmSc3k)
 
 ## Key Concepts
 1. In Java, each code statement must end with a semicolon.
