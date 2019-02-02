@@ -32,5 +32,3 @@ c) OwnerRepositoryTest integration test
 - https://www.thymeleaf.org/doc/tutorials/2.1/thymeleafspring.html#dropdownlist-selectors
 - https://o7planning.org/en/11659/thymeleaf-form-select-option-example
 
-## Key Concepts
-- 
