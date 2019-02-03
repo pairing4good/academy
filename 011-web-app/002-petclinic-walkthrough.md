@@ -32,3 +32,12 @@ c) OwnerRepositoryTest integration test
 - https://www.thymeleaf.org/doc/tutorials/2.1/thymeleafspring.html#dropdownlist-selectors
 - https://o7planning.org/en/11659/thymeleaf-form-select-option-example
 
+## Key Concepts
+- Polymorphism is briefly described as “one interface, many implementations”.
+- What are the main differences between abstract classes and interfaces?
+    - An abstract class can provide `partial implementation` while an interface can not.
+    - A class can `only extend one abstract class` while the same class can implement several interfaces.
+    - An abstract class can have `non-abstract methods` while all interface methods are abstract.
+    - An abstract class can have `instance variables` while an interface cannot have instance variables.
+    - An abstract class can have `any visibility` (public, private, protected, etc.) while an interface can only be public.
+    - An abstract class can `contain constructors` while an interface cannot contain constructors
