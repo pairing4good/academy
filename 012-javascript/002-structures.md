@@ -20,4 +20,7 @@
 
 ## Key Concepts
 - JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browsers.
-- 
+- JavaScript and Java have nothing to do with each other.  They simply have an unfortunate common name of "Java".
+- Anonymous Functions (aka Lambda Functions) do not have function names.
+- JavaScript, like Java, is a case-sensitive language. This means that language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
+- The DOM defines a standard for accessing documents: "The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document."
