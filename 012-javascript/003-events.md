@@ -23,3 +23,4 @@
 - JavaScript withing `<script>` tags is executed right when the HTML page is loaded.
 - JavaScript functions are declared when the page is loaded but their behavior is not run until the function is called.
 - HTML provides event listeners that can call JavaScript on specific page events.
+- Webpack is an open-source JavaScript module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset. Webpack takes modules with dependencies and generates static assets representing those modules.
