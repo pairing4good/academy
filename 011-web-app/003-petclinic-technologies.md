@@ -23,3 +23,11 @@
 - Add a link to your Trello board
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts
+- List is an ordered collection.
+- Set is an unordered collection and doesn't contain duplicate values.
+- The Map interface represents a key-value pair. Maps don't contain duplicate keys.
+- HashMap does not preserve order.
+- TreeMap preserves order
+- LinkedList items have references to previous and next items in the same LinkedList.
