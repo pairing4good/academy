@@ -33,3 +33,12 @@ b) The `th:replace` uses the fragment `inputField.html`. This is where your chan
 - Thymeleaf Switch Statements: https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#switch-statements
 - Bootstrap Placeholder: https://getbootstrap.com/docs/3.3/css/#less-mixins-placeholder
 - HTML5 Pattern: https://www.w3schools.com/tags/att_input_pattern.asp
+
+## Key Concepts
+- External JavaScripts files are imported through the `<script>` tag in the `<head>`.
+- The `src` attribute in `<script src="path\external_file_name.js"></script>` specifies the external javascript path and filename.
+- The `</script>` close tag in `<script src="path\external_file_name.js"></script>` is required even though there is nothing between the open and close tag.  `<script src="sample.js"/>` is not valid.
+- jQuery is a JavaScript library that allows web developers to add extra functionality to their websites.
+- Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
+- `$` is reserved for jQuery when you include jQuery in your HTML page.
+- 
