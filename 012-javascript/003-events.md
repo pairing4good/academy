@@ -3,8 +3,8 @@
 ## Discover
 -  watch attached videos
 	- [![YouTube](https://i.ytimg.com/vi/Mxu04RMBTcw/default.jpg)](https://www.youtube.com/watch?v=Hchx90m5Yes)
-	- [![YouTube](https://i.ytimg.com/vi/aYo7YymudpE/default.jpg)](https://www.youtube.com/watch?v=aYo7YymudpE)
-
+	- [![YouTube](https://i.ytimg.com/vi/nfmvexyoHXE/default.jpg)](https://www.youtube.com/watch?v=nfmvexyoHXE)
+	
 ## Try
 - Site: SoloLearn.com
 - Topic: JavaScript
