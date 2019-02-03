@@ -1,7 +1,7 @@
 # JavaScript - AJAX
 
 ## Discover
--  watch attached video [![YouTube](https://i.ytimg.com/vi/IKNkkzmsbzg/default.jpg)](https://www.youtube.com/watch?v=Xqc2gA2XyB4)
+-  watch [![YouTube](https://i.ytimg.com/vi/IKNkkzmsbzg/default.jpg)](https://www.youtube.com/watch?v=Xqc2gA2XyB4)
 
 ## Try
 - Site: SoloLearn.com
