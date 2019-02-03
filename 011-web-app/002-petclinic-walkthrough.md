@@ -41,3 +41,6 @@ c) OwnerRepositoryTest integration test
     - An abstract class can have `instance variables` while an interface cannot have instance variables.
     - An abstract class can have `any visibility` (public, private, protected, etc.) while an interface can only be public.
     - An abstract class can `contain constructors` while an interface cannot contain constructors
+- Method Overloading is where methods of the same class shares the same name but each method must have different number of parameters or parameters having different types and order.
+- Method Overriding is where sub classes have the same method with same name and exactly the same number and type of parameters and same return type as a super class.
+- You cannot override a private or static method in Java.
