@@ -41,4 +41,4 @@ b) The `th:replace` uses the fragment `inputField.html`. This is where your chan
 - jQuery is a JavaScript library that allows web developers to add extra functionality to their websites.
 - Bootstrap is a free and open-source front-end framework for developing websites and web applications. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
 - `$` is reserved for jQuery when you include jQuery in your HTML page.
-- 
+- Regular Expressions (regex or regexp) is a sequence of characters that define a search pattern to be searched for within a longer piece of text.
