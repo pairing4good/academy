@@ -17,3 +17,9 @@
 ## Turn In Your Assignment
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts
+- Inline JavaScript can be added to HTML between `<script>` tags.
+- JavaScript withing `<script>` tags is executed right when the HTML page is loaded.
+- JavaScript functions are declared when the page is loaded but their behavior is not run until the function is called.
+- HTML provides event listeners that can call JavaScript on specific page events.
