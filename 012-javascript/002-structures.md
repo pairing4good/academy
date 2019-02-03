@@ -17,3 +17,7 @@
 ## Turn In Your Assignment
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts
+- JavaScript is an object-oriented computer programming language commonly used to create interactive effects within web browsers.
+- 
