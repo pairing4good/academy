@@ -24,3 +24,10 @@
 - Anonymous Functions (aka Lambda Functions) do not have function names.
 - JavaScript, like Java, is a case-sensitive language. This means that language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
 - The DOM defines a standard for accessing documents: "The W3C Document Object Model (DOM) is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document."
+- npm (short for Node.js package manager) is a package manager for the JavaScript programming language. It consists of a 
+     - command line client, also called npm, 
+     - and an online database of public and paid-for private packages, called the npm registry.
+- npm commandline tool can install and uninstall npm packages
+- An npm package is a builing block for your application.
+- npm provides package versioning.
+- npm provides dependency management.
