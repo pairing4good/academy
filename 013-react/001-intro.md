@@ -29,3 +29,17 @@
 ## Turn In Your Assignment
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Key Concepts 
+- React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+- Components are the building blocks of any React app and a typical React app will have many of these. Simply put, a component is a JavaScript class or function that optionally accepts inputs i.e. properties(props) and returns a React element that describes how a section of the UI (User Interface) should appear.
+- Every React app has at least one component called the `root` component. 
+- Every React app is a tree of components. 
+- React classes are JavaScript classes with some state and a render method
+- The output of the render method is a React Element that maps to a virtual DOM element. 
+- The virtual DOM (VDOM) is a programming concept where an ideal, or "virtual", representation of a UI is kept in memory and synced with the "real" DOM by a library such as ReactDOM. This process is called reconciliation.
+- Babel or Babel.js is a free and open- source JavaScript compiler and configurable transpiler used in web development
+- JSX is a preprocessor step that adds XML syntax to JavaScript. You can definitely use React without JSX but JSX makes React a lot more elegant. Just like XML, JSX tags have a tag name, attributes, and children
+- React uses hot module reloading to reload the web app without restarting. 
+- Camel case (stylized as camelCase; also known as camel caps or more formally as medial capitals) is the practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation.
+- React Component file names should be camel case. 

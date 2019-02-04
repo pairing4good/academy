@@ -30,6 +30,8 @@
 
 ## Key Concepts
 - Java, is a case-sensitive language. This means that language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
+- Camel case (stylized as camelCase; also known as camel caps or more formally as medial capitals) is the practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation.
+- Java method names and variable names should be camel case. 
 - In Java, each code statement must end with a semicolon.
 - A block of Java code is surrounded by `{` and `}`
 - Java is Platform Independent, which means that you only need to write the program once to be able to run it on a number of different platforms!
