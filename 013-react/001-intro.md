@@ -43,3 +43,5 @@
 - React uses hot module reloading to reload the web app without restarting. 
 - Camel case (stylized as camelCase; also known as camel caps or more formally as medial capitals) is the practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation.
 - React Component file names should be camel case. 
+- Responsive web design is an approach whereby a designer creates a web page that "responds to" or resizes itself depending on the type of device it is being seen through. That could be an oversized desktop computer monitor, a laptop or devices with small screens such as smartphones and tablets.
+- Bootstrap uses a 12 column grid to achieve a responsive design. 
