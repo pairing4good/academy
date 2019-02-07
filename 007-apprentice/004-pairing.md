@@ -16,6 +16,11 @@
 - Commit to Git every Red -> Green -> Refactor cycle.
 - Once you’ve Test Driven your code, create a video demonstration of your working code.
 
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutEnums
+  
 ## Turn In Your Assignment
 - Add a link to your Trello Board
 - Add a link to your GitHub repository
