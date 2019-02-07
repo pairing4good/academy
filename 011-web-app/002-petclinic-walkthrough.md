@@ -28,6 +28,11 @@ c) OwnerRepositoryTest integration test
 - Add a link to your GitHub repository
 - Add links to your story demo videos
 
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutMocks
+
 ## Resources
 - https://www.thymeleaf.org/doc/tutorials/2.1/thymeleafspring.html#dropdownlist-selectors
 - https://o7planning.org/en/11659/thymeleaf-form-select-option-example
