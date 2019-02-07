@@ -11,11 +11,15 @@
 ## Apply
 ToDo (Within React App)
 
-
 ## Turn In Your Assignment
 - Add a link to your Trello board
 - Add a link to your GitHub repository
 - Add links to your story demo videos
+
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutStreams
 
 ## Key Concepts
 - Ajax (Asynchronous JavaScript And XML)is a set of Web development techniques using many web technologies on the client side to create asynchronous Web applications.
