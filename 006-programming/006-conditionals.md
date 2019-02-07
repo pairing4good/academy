@@ -17,11 +17,7 @@ _An explanation for avoiding switch statements can be found in chapter 3 of [Cle
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
 - Complete
-  - AboutJava7LiteralsEnhancements
-  - AboutStringsInSwitch
-  - AboutDiamondOperator
-  - AboutTryWithResources
-  - AboutRequireNotNull
+  - AboutObjects
 
 # Key Concepts
 1. An exception is a problem that occurs during program execution.
