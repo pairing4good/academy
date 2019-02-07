@@ -10,7 +10,9 @@
 
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
-- Complete `AboutMocks`
+- Complete 
+     - AboutLoops
+     - AboutPrimitives
 
 ## Key Concepts
 1. There are 4 core concepts in OOP: 
