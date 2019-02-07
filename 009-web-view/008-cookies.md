@@ -24,6 +24,11 @@
 - Add a link to your GitHub repository
 - Add links to your story demo videos
 
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutRegularExpressions
+
 ## Resources
 Thymeleaf: (https://www.thymeleaf.org)
 Sample logo: https://goo.gl/images/aYDaJs
