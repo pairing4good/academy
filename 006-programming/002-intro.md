@@ -15,15 +15,8 @@
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
 - Complete
+  - AboutKoans
   - AboutAssertions
-  - AboutEquality
-  - AboutStrings
-  - AboutArithmeticOperators
-  - AboutConditionals
-  - AboutLoops
-  - AboutPrimitives
-  - AboutObjects
-  - AboutInheritance
   
 ## Walkthrough
 [![YouTube](https://i.ytimg.com/vi/5x3NmqmSc3k/default.jpg)](https://www.youtube.com/watch?v=5x3NmqmSc3k)
