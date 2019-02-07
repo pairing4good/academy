@@ -13,13 +13,7 @@
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
 - Complete
-  - AboutDefaultMethods
-  - AboutOptional
-  - AboutLocalTime
-  - AboutLambdas
-  - AboutStreams
-  - AboutMultipleInheritance
-  - AboutBase64
+  - AboutInheritance
 
 ## Resources
 - (https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html)
