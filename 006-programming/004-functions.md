@@ -13,16 +13,8 @@
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
 - Complete
-  - AboutAutoboxing
-  - AboutCollections
-  - AboutComparison
-  - AboutDates
-  - AboutEquality
-  - AboutFileIO
-  - AboutInnerClasses
-  - AboutLocale
-  - AboutRegularExpressions
-  - AboutSerialization
+  - AboutArithmeticOperators
+  - AboutConditionals
 
 ## Key Concepts
 1. Java uses Object-Oriented Programming (OOP), a programming style that is intended to make thinking about programming closer to thinking about the real world.
