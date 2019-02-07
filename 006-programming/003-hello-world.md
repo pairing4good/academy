@@ -13,14 +13,8 @@
 ## Apply
 - Site: https://github.com/pairing4good/java-koans
 - Complete
-  - AboutCasting
-  - AboutConstructors
-  - AboutEnums
-  - AboutExceptions
-  - AboutMethodPreference
-  - AboutBitwiseOperators
-  - AboutArrays
-  - AboutVarArgs
+  - AboutEquality
+  - AboutStrings
 
 ## Key Concepts
 1. In Java, an array starts counting from zero.
