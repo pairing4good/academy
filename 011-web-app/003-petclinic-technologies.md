@@ -24,6 +24,11 @@
 - Add a link to your GitHub repository
 - Add links to your story demo videos
 
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutDefaultMethods
+
 ## Key Concepts
 - List is an ordered collection.
 - Set is an unordered collection and doesn't contain duplicate values.
