@@ -19,6 +19,11 @@
 ## References
 - https://en.wikipedia.org/wiki/SOLID
 
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutBitwiseOperators
+  
 ## Key Concepts
 - Meaningful naming is cruitial in building clean code.
 - Use Intention-Revealing Names
