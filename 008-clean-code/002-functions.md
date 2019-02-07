@@ -21,6 +21,11 @@
 - https://en.wikipedia.org/wiki/Inversion_of_control
 - https://en.wikipedia.org/wiki/Dependency_inversion_principle
 
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutArrays
+  
 ## Key Concepts
 - Rigidity is code that has high coupling with other parts of the code so that when you make a coding change you must modify other unrelated parts of the code.
 - Fragility is code that breaks other unrelated parts of the code when you make a coding change.
