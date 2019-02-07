@@ -29,6 +29,11 @@ b) The `th:replace` uses the fragment `inputField.html`. This is where your chan
 - Add a link to your GitHub repository
 - Add links to your story demo videos
 
+## Extra
+- Site: https://github.com/pairing4good/java-koans
+- Complete
+  - AboutLambdas
+
 ## Resources
 - Thymeleaf Switch Statements: https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#switch-statements
 - Bootstrap Placeholder: https://getbootstrap.com/docs/3.3/css/#less-mixins-placeholder
