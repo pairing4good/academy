@@ -16,6 +16,9 @@
   - AboutArithmeticOperators
   - AboutConditionals
 
+## Walk Through
+[![YouTube](https://i.ytimg.com/vi/UnU7idPGA5A/default.jpg)](https://www.youtube.com/watch?v=UnU7idPGA5A)
+
 ## Key Concepts
 1. Java uses Object-Oriented Programming (OOP), a programming style that is intended to make thinking about programming closer to thinking about the real world.
 1. Methods define behavior. A method is a collection of statements that are grouped together to perform an operation.
