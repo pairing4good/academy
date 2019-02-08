@@ -19,7 +19,8 @@
   - AboutAssertions
   
 ## Walkthrough
-[![YouTube](https://i.ytimg.com/vi/5x3NmqmSc3k/default.jpg)](https://www.youtube.com/watch?v=5x3NmqmSc3k)
+- [![YouTube](https://i.ytimg.com/vi/CvzqW1Zz79g/default.jpg)](https://www.youtube.com/watch?v=CvzqW1Zz79g)
+- [![YouTube](https://i.ytimg.com/vi/we0DsWXfeW8/default.jpg)](https://www.youtube.com/watch?v=we0DsWXfeW8)
 
 ## Key Concepts
 - Java, is a case-sensitive language. This means that language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
