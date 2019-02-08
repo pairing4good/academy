@@ -15,6 +15,9 @@
 - Complete
   - AboutEquality
   - AboutStrings
+  
+## Walk Through
+[![YouTube](https://i.ytimg.com/vi/R6rDMMxMy28/default.jpg)](https://www.youtube.com/watch?v=R6rDMMxMy28)
 
 ## Key Concepts
 1. In Java, an array starts counting from zero.
