@@ -14,6 +14,9 @@
 - Site: https://github.com/pairing4good/java-koans
 - Complete
   - AboutInheritance
+  
+## Walkthrough
+[![YouTube](https://i.ytimg.com/vi/euZ25yrOunk/default.jpg)](https://www.youtube.com/watch?v=euZ25yrOunk)
 
 ## Resources
 - (https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html)
