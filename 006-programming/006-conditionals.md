@@ -7,7 +7,7 @@
 _An explanation for avoiding switch statements can be found in chapter 3 of [Clean Code](http://a.co/d/99nSsnx). Furthermore, the entire fourth chapter of [Clean Code](http://a.co/d/99nSsnx) is dedicated to the topic of code comments._
 
 ## Discover
-- watch attached video [![YouTube](https://i.ytimg.com/vi/FQP0sQIf9nw/default.jpg)](https://www.youtube.com/watch?v=FQP0sQIf9nw)
+- watch [![YouTube](https://i.ytimg.com/vi/FQP0sQIf9nw/default.jpg)](https://www.youtube.com/watch?v=FQP0sQIf9nw)
 
 ## Try
 - Site: SoloLearn.com
@@ -18,6 +18,9 @@ _An explanation for avoiding switch statements can be found in chapter 3 of [Cle
 - Site: https://github.com/pairing4good/java-koans
 - Complete
   - AboutObjects
+  
+## Walkthrough
+[![YouTube](https://i.ytimg.com/vi/Sik218hmd4I/default.jpg)](https://www.youtube.com/watch?v=Sik218hmd4I)
 
 # Key Concepts
 1. An exception is a problem that occurs during program execution.
