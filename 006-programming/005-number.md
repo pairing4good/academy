@@ -15,7 +15,7 @@
      - AboutPrimitives
      
 ## Walk Through
-- watch [![YouTube](https://i.ytimg.com/vi/hpBBIdUY0SM/default.jpg)](https://www.youtube.com/watch?v=hpBBIdUY0SM)
+[![YouTube](https://i.ytimg.com/vi/hpBBIdUY0SM/default.jpg)](https://www.youtube.com/watch?v=hpBBIdUY0SM)
 
 ## Key Concepts
 1. There are 4 core concepts in OOP: 
