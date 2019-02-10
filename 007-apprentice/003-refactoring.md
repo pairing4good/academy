@@ -24,6 +24,7 @@
 
 ## Walkthrough
 - Kata [![YouTube](https://i.ytimg.com/vi/5oE1Itmmhtc/default.jpg)](https://www.youtube.com/watch?v=5oE1Itmmhtc)
+- Koan [![YouTube](https://i.ytimg.com/vi/lXtFg4TEOaM/default.jpg)](https://www.youtube.com/watch?v=lXtFg4TEOaM)
 
 ## Resources
 - https://refactoring.guru/refactoring
