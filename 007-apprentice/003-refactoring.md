@@ -22,6 +22,9 @@
 - Add a link to your GitHub repository
 - Add links to your story demo videos
 
+## Walkthrough
+- Kata [![YouTube](https://i.ytimg.com/vi/5oE1Itmmhtc/default.jpg)](https://www.youtube.com/watch?v=5oE1Itmmhtc)
+
 ## Resources
 - https://refactoring.guru/refactoring
 
