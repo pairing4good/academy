@@ -26,6 +26,9 @@
 - Add a link to your GitHub repository
 - Add links to your story demo videos
 
+## Walkthrough
+- Kata [![YouTube](https://i.ytimg.com/vi/UzCw_xTq-CA/default.jpg)](https://www.youtube.com/watch?v=UzCw_xTq-CA)
+
 ## Key Concepts
 1. Pair Driver - focused on the here and now
 1. Pair Navigator - focused on where you are going
