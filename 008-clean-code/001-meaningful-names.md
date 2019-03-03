@@ -6,15 +6,12 @@
 - Read https://www.baeldung.com/java-final-finally-finalize
 
 ## Apply
-- Create User Stories http://codekata.com/kata/kata01-supermarket-pricing/ stories on your Trello Board in the "To Do" List.
-- Move each story from "To Do" to Doing when you start working on it. Then move it to "Done" once you complete the story.
-- Commit to Git every Red -> Green -> Refactor cycle.
-- Once you’ve Test Driven your code, create a video demonstration of your working code.
+- This week's kata is a thought kata rather than a coding kata.  While you are welcome to start writing some code, the assignment is to share your approach for solving each of the pricing problems presented.  There's no right or wrong answer.  As developers we are regularly faced with the challenge of breaking down problems and coming up with ideas on how to solve them. Create a Trello board with your stories. 
+- http://codekata.com/kata/kata01-supermarket-pricing/ 
 
 ## Turn In Your Assignment
-- Add a link to your Trello Board
-- Add a link to your GitHub repository
-- Add links to your story demo videos
+- Add a link to your Trello board
+- Add a link to your video explaining how you broke this problem down.
 
 ## References
 - https://en.wikipedia.org/wiki/SOLID
