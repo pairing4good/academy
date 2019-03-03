@@ -7,6 +7,7 @@
 - Read chapters 3 in Clean Code (http://a.co/d/c31QNpN)
 
 ## Apply
+- This Kata solves the same problem 5 different ways.  While the story outcomes will be the same in Trello for each of the 5 passes, the code will be different each time.  Please create a separate GitHub repository for each of the 5 approaches.
 - Create User Stories http://codekata.com/kata/kata02-karate-chop/ stories on your Trello Board in the "To Do" List.
 - Move each story from "To Do" to Doing when you start working on it. Then move it to "Done" once you complete the story.
 - Commit to Git every Red -> Green -> Refactor cycle.
@@ -14,7 +15,7 @@
 
 ## Turn In Your Assignment
 - Add a link to your Trello Board
-- Add a link to your GitHub repository
+- Add a link to your 5 GitHub repositories
 - Add links to your story demo videos
 
 ## Resources
