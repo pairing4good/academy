@@ -8,7 +8,7 @@
 - Read chapters 9 & 10 in Clean Code (http://a.co/d/c31QNpN)
 
 ## Apply
-- Create User Stories http://codekata.com/kata/kata05-bloom-filters/ stories on your Trello Board in the "To Do" List.
+- Create User Stories https://github.com/garora/TDD-Katas/blob/master/KatasReadme.md#lcd-digits- stories on your Trello Board in the "To Do" List.
 - Move each story from "To Do" to Doing when you start working on it. Then move it to "Done" once you complete the story.
 - Commit to Git every Red -> Green -> Refactor cycle.
 - Once you’ve Test Driven your code, create a video demonstration of your working code.
